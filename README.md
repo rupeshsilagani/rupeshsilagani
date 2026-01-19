@@ -1,5 +1,5 @@
 
-# 👋✨ Hi there, I'm **Laxman Konukati**!
+# 👋✨ Hi there, I'm **Rupesh Silagani**!
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&height=60&lines=Python+Data+Analytics;;AI+Researcher;Full-Stack+Developer;Always+Learning+New+Things" alt="Typing SVG" />
@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/laxman-konukati-6856092a5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rupesh-silagani-a6390326a/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/KonukantiLaxman)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:laxmankonukati@gmail.com)
 
