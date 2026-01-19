@@ -8,8 +8,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rupesh-silagani-a6390326a/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/KonukantiLaxman)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:laxmankonukati@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/rupeshsilagani)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:rupeshsilagani@gmail.com)
 
 </div>
 
@@ -17,13 +17,13 @@
 ## 👨‍💻 About Me
 
 
-🎓 **B.Tech in Computer Science and Engineering** from **TKR College of Engineering and Technology (TKRC)** with a CGPA of **7.71**.\
+🎓 **B.Tech in Computer Science and Engineering with Specialization in Data Science** from **Kalasalingam Academy Of Research And Education (KARE)** with a CGPA of **8.21**.\
 💡  passionate **Python & Data Analytics** learner with interest in **data visualization, machine learning, and automation**.\
 📊 I love turning raw data into meaningful insights.\
 🧠  Currently exploring **Pandas, NumPy, Matplotlib, Seaborn, and Power BI**.\
 💡 Open to collaborate on **data analytics and automation projects**.\
 🚀 Always curious, always learning — from building APIs to training AI models!.\
-📫 Reach me at **laxmankonukati93@gmail.com**!
+📫 Reach me at **rupeshsilagani@gmail.com**!
 
 ---
 ## 🚀 **Tech Stack:**
@@ -84,7 +84,7 @@
 
 | Role | Organization | Duration |
 |------|---------------|-----------|
-| 📊 **Junior Analyist Intern** | Vangrove Tech | Nov 2025 – Present |
+| 📊 **Junior Analyist Intern** | Vangrove Tech | Jan 2026 – Present |
 
 ---
 ### 🧠 Data Analytics Skills
@@ -98,41 +98,37 @@
 
 ---
 ### 🏆 Achievements & Certifications
-• Certification of completion of Python from Udemy.\
-💻 Certified Full Stack Java Developer - Completed training in front-end, back-end, and database technlogies to
-  build end-to-end web applications.\
-📄 Certification of ”Published research paper titled ’Silent saviour: Deep Learning Neural Network for Cyberbulling
-  Detection in Social Media’ in the International Journal of Basic and Applied Research”.\
-💻 **Java Developer Intern** (Elevate Labs | Sep 2025 – Nov 2025)
-  
-
+• Oracle Cloud Infrastructure 2023 Cerified Architech Association.\
+📄 Certification of ”Published research paper titled ’ClassHotel:Application of Data Analytic Techniques 
+   for Online Hotel Recommendation’ at the International Conference on Automation,Computing and RenewableSystem(ICACRS-2022).\
+   
 ---
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KonukantiLaxman&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=KonukantiLaxman&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KonukantiLaxman&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=rupeshsilagani&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rupeshsilagani&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshsilagani&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
-[![](https://visitcount.itsvg.in/api?id=KonukantiLaxman&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=rupeshsilagani&icon=0&color=0)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ---
 
 ## 🏆 **GitHub Trophies**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=KonukantiLaxman&theme=onestar"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=rupeshsilagani&theme=onestar"/>
 </p>
 
 ---
 
 ## 📬 **Connect With Me**
 
-📧 [laxmankonukati93@gmail.com](mailto:laxmankonukati93@gmail.com)  
-📞 [+91 7989574036](tel:+917989574036)   
-💼 [LinkedIn](https://www.linkedin.com/in/konukati-laxman-6856092a5/)  
-🐙 [GitHub](https://github.com/KonukatiLaxman)
+📧 [rupeshsilagani@gmail.com](mailto:rupeshsilagani@gmail.com)  
+📞 [+91 7416756273](tel:+917416756273)   
+💼 [LinkedIn](https://www.linkedin.com/in/rupesh-silagani-a6390326a/)  
+🐙 [GitHub](https://github.com/rupeshsilagani)
 
 ---
 
