@@ -84,7 +84,7 @@
 
 | Role | Organization | Duration |
 |------|---------------|-----------|
-| 📊 **Junior Analyist Intern** | Vangrove Tech | Jan 2026 – Present |
+| 📊 **Junior Analyist Intern** | Vangrove Tech | Aug 2025 – Jan 2026 |
 
 ---
 ### 🧠 Data Analytics Skills
