@@ -71,11 +71,8 @@
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black" />
   <img src="https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" />
 </p>
 
 ---
@@ -102,25 +99,6 @@
 📄 Certification of ”Published research paper titled ’ClassHotel:Application of Data Analytic Techniques 
    for Online Hotel Recommendation’ at the International Conference on Automation,Computing and RenewableSystem(ICACRS-2022).\
    
----
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rupeshsilagani&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rupeshsilagani&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rupeshsilagani&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-
-[![](https://visitcount.itsvg.in/api?id=rupeshsilagani&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
----
-
-## 🏆 **GitHub Trophies**
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rupeshsilagani&theme=onestar"/>
-</p>
-
 ---
 
 ## 📬 **Connect With Me**
